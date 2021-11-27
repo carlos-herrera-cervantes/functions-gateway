@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "MongoDBConnectionString": "mongodb://localhost:27017",
+        "MongoDBDatabase": "cloud-api",
+        "FirebaseDatabase": "",
+        "FirebaseAppSecret": "",
+        "FirebaseSalesEventPath": "events/local/sales"
+    }
+}
